@@ -59,6 +59,31 @@ public class User {
 		// TODO Auto-generated method stub
 		return null;
 	}
+
+	public void setEmail(String email2) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public Object getFullName() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public void setFullName(Object fullName2) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void setRole(USER_ROLE role2) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void setPassword(String encode) {
+		// TODO Auto-generated method stub
+		
+	}
 	
 
 }
